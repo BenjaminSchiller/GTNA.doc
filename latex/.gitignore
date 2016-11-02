@@ -1,0 +1,13 @@
+.DS_Store
+bin/
+
+/GTNA.pdf
+
+*.pyc
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.out
